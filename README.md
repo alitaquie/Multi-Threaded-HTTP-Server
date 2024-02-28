@@ -1,4 +1,4 @@
-# Multithreaded Server
+# Multi-threaded HTTP Server
 
 This directory contains source code and other files for a Multi-threaded HTTP Server. 
 
